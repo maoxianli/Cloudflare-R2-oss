@@ -1,0 +1,106 @@
+188.253.6.210:443#TW Akari Networks	
+37.128.252.113:31141#TW Akari Networks	
+188.253.6.127:28963#TW Akari Networks	
+61.63.235.53:25957#TW SaveCom Internation	
+61.220.65.189:27114#TW Chunghwa Telecom	
+188.253.6.53:25884#TW Akari Networks	
+61.220.65.189:26832#TW Chunghwa Telecom	
+140.120.44.31:11449#TW National Chung Hsing University	
+83.147.13.199:443#TW Akari Networks	
+123.205.124.131:11696#TW Taiwan Infrastructure Network Technologie	
+118.163.37.32:81#TW Chunghwa Telecom	
+140.120.44.31:14226#TW National Chung Hsing University	
+103.106.230.186:81#TW BrainStorm Network	
+141.11.86.94:18333#TW Akile	
+85.237.206.205:12678#TW Akari Networks	
+210.79.155.242:443#TW Akari Networks	
+85.237.206.205:443#TW Akari Networks	
+219.84.50.2:29448#TW Sony Network Taiwan	
+103.159.207.172:2443#TW Emagine Concept	
+59.127.80.162:12224#TW Chunghwa Telecom	
+59.120.116.28:34333#TW Chunghwa Telecom	
+103.159.206.159:32819#TW Emagine Concept	
+103.159.207.168:2086#TW Emagine Concept	
+60.249.114.181:21574#TW Chunghwa Telecom	
+103.159.207.168:2443#TW Emagine Concept	
+103.159.207.172:2086#TW Emagine Concept	
+115.43.226.8:28602#TW Homeplus	
+59.120.116.28:34076#TW Chunghwa Telecom	
+112.104.167.63:11873#TW SeedNet	
+210.66.130.192:10470#TW SeedNet	
+116.241.116.184:20242#TW TBC	
+140.120.44.31:34355#TW National Chung Hsing University	
+60.249.114.181:26398#TW Chunghwa Telecom	
+106.105.199.173:38309#TW Hsin Yeong An Cable TV Co	
+210.66.107.202:28937#TW SeedNet	
+202.39.212.181:18402#TW Chunghwa Telecom	
+60.249.114.181:32003#TW Chunghwa Telecom	
+61.222.146.15:28227#TW Chunghwa Telecom	
+202.39.212.181:25062#TW Chunghwa Telecom	
+202.39.212.181:18990#TW Chunghwa Telecom	
+210.61.97.241:81#TW Chunghwa Telecom	
+35.201.203.106:443#TW Google Cloud	
+37.128.252.113:31141#TW Akile	
+112.104.167.63:16854#TW SeedNet	
+37.128.252.196:8080#TW Akile	
+175.97.191.217:30100#TW TWN Broadband	
+37.128.253.213:2053#TW Akile	
+141.11.86.109:8080#TW Akile	
+141.11.87.111:8080#TW Akile	
+37.128.253.213:8443#TW Akile	
+103.137.63.205:31564#TW Pittqiao Network Information CoLtd	
+220.130.80.171:20655#TW Chunghwa Telecom	
+35.229.160.75:10501#TW Google Cloud	
+85.237.206.205:12678#TW Akari Networks
+103.159.207.172:2443#TW Emagine Concept
+140.120.44.31:34355#TW National Chung Hsing University
+115.43.226.8:28602#TW Homeplus
+59.120.116.28:34333#TW Chunghwa Telecom
+112.104.167.63:11873#TW SeedNet
+103.159.206.159:32819#TW Emagine Concept
+59.127.80.162:12224#TW Chunghwa Telecom
+103.159.207.168:2443#TW Emagine Concept
+60.249.114.181:26398#TW Chunghwa Telecom
+210.66.130.192:10470#TW SeedNet
+103.159.207.172:2086#TW Emagine Concept
+103.159.207.168:2086#TW Emagine Concept
+212.64.215.35:8080:TR:COMNET FIBER ISTANBUL
+185.235.243.223:2053:MD:Stark Industries Solutions
+185.235.243.223:2096:MD:Stark Industries Solutions
+185.235.243.223:8443:MD:Stark Industries Solutions
+91.151.90.109:443:TR:Teknosos Bilisim Hizmetleri Ve Tic Sti
+45.90.89.244:1980:TR:DC Host
+83.217.9.111:46184:TR:Global Connectivity Solutions Llp
+45.89.52.247:443:TR:Stark Industries Solutions LTD
+62.133.63.86:8443:TR:Global Connectivity Solutions Llp
+94.131.108.39:2055:TR:Stark Industries Solutions LTD
+94.131.108.197:2057:TR:Stark Industries Solutions LTD
+103.231.75.237:2096:MD:Stark Industries Solutions
+94.131.108.197:2054:TR:Stark Industries Solutions LTD
+91.151.90.149:443:TR:Teknosos Bilisim Hizmetleri Ve Tic Sti
+213.238.167.59:1980:US:Hurricane Electric IPv6 tunnel broker
+213.238.167.59:1983:US:Hurricane Electric IPv6 tunnel broker
+213.238.167.59:1982:US:Hurricane Electric IPv6 tunnel broker
+45.90.89.244:1983:TR:DC Host
+94.131.108.197:2055:TR:Stark Industries Solutions LTD
+94.131.108.39:2054:TR:Stark Industries Solutions LTD
+91.151.93.101:443:TR:Teknosos Bilisim Hizmetleri Ve Tic Sti
+94.131.108.39:2057:TR:Stark Industries Solutions LTD
+83.217.9.99:4955:TR:Global Connectivity Solutions Llp
+185.255.172.154:443:TR:Sef Bilisim Hizmetleri AS
+78.135.104.120:53788:TR:Virtara Group Bilisim Teknolojileri Tic Ltd Sti
+84.32.230.202:443:TR:Mailbox Internet Hizmetleri Sti
+84.32.230.70:9000:TR:Mailbox Internet Hizmetleri Sti
+45.95.232.115:2053:CH:Global Connectivity Solutions Llp
+193.168.144.81:443:CH:Serverd SAS
+141.11.87.111:8080#TW Akile
+37.128.253.213:8443#TW Akile
+45.85.93.49:443:CH:Serva One
+220.130.80.171:20655#TW Chunghwa Telecom
+45.82.254.136:443:CY:Stark Industries Solutions
+45.95.232.236:2053:CH:Global Connectivity Solutions Llp
+185.195.69.200:2053:CH:Datasource
+94.131.99.175:443:CH:Stark Industries Solutions LTD
+45.85.93.18:8443:CH:Serva One
+38.180.15.45:443:CH:Private Layer
+135.125.169.128:8443:FR:OVHcloud
